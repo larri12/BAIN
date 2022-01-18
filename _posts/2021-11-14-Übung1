@@ -1,0 +1,14 @@
+---
+title: "Übung Import und Export"
+date: 2021-11-14
+---
+Liebes Tagebuch, da wir in der Vorlesung 4 durch das Gastreferat ein sehr gedrängtes Programm hatten, gibt es nun eine etwas umfangreichere Übung/Aufgabe auf das nächste Mal zu erledigen. Wie schon gesagt, sind es zwei etwas längere Übungen, deshalb lohnt es sich nun auch, meinen ersten Beitrag über eine Aufgabe in dir niederzuschreiben. Die Aufgaben beziehen sich auf das in der Vorlesung 4 benutzte System ArchivesSpace, da dieses noch weitere Funktionen als das Anlegen von Accession und Resourcen zu bieten hat. 
+
+ArchivesSpace bietet dateibasierten Import und Export in diversen Formaten (EAD, MARCXML, CSV) und auch eine OAI-PMH-Schnittstelle.
+Die erste Übung beinhaltete daher logisch schlussfolgernd einen Import. Was die zweie Übung später sein wird, kannst du dir als mein schlaues Tagebuch sicher schon vorstellen. Ganz unbeschwert habe ich mich an den Import herangewagt, den bereitgestellten Link eingegeben und die Datei gesucht. Danach habe ich in ArchivesSpace alles soweit vorbereitet; Create, Background Job, Import Data, jedoch kam danach immer eine Fehlermeldung. Grund war, dass ich die Seite nicht richtig gespeichert hatte. Da meine Kenntnis über solche Programme sich in Grenzen halten, hatte ich alle Möglichkeiten (file, complete) ausprobieren müssen, da dies in der Anleitung nicht beschrieben war. Die 10 Minuten für diese Aufgabe habe ich deutlich ausgeweitet. Als ich dann den Datenimport wieder ausprobieren wollte, wurde die Seite nicht mehr gefunden. Alles schliessen und neu starten hat nichts genützt, weshalb ich den Laptop auf die Seite legen musste, um an einem anderen Tag mein Glück erneut zu versuchen, damit ich nicht schon wieder bei meinen Dozenten landete. 
+ 
+BIlD
+
+Kurz: Neuer Tag, neues Glück, es hat funktioniert. 
+
+Die zweite Übung beinhaltete, genau, du vermutest richtig, den Export. Hier konnte ich trotz Hinweis nicht erkennen, wie ich die Daten exportieren kann. Deshalb startete ich eine Suche nach einem Lernvideo. Der Export im Format MARCXML funktionierte. Der Vergleich beider zur Originaldatei zeigt auf: Sie ist nicht verlustfrei (Zeitraum ist anders).
