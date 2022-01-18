@@ -5,7 +5,7 @@ date: 2022-01-16
 
 Nun ist es soweit, unsere letzten gemeinsamen Minuten haben begonnen, dies ist mein Abschlussartikel zum Modul BAIN. 
 
-Was lief gut?
+## Was lief gut?
 
 Erstaunlicherweise das Allermeiste. Dies ist vor allem auf die hohe Einsatzbereitschaft der beiden Dozenten zurückzuführen. Die Vorlesungen waren super geplant und immer abwechslungsreich gestaltet (Theorie, Installation und Aufgaben). Zudem konnten jederzeit Fragen gestellt werden. Auch das Feedback wurde zur Kenntnis genommen und sogar zu Beginn jeder neuer Vorlesung gemeinsam im Plenum diskutiert. Ich hatte selten solch engagierte Dozenten. Dies hat mir sehr geholfen, die Motivation für die Thematik, welche normalerweise weit von meinem Interessensgebiet abweicht, zu behalten und wirklich etwas zu lernen. Ich fühlte mich bei den Dozenten als Studentin wahrgenommen und wusste, dass für meine Anliegen stets ein offenes Ohr vorhanden sein würde. Alle Begriffe, Programme, Durchführungen und Übungen waren für mich nämlich Neuland. 
 
